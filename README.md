@@ -11,7 +11,11 @@
 <br>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://en.wikipedia.org/wiki/Lua" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1280px-Lua-Logo.svg.png" alt="lua" width="50" height="50"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"         height="50"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+  <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1280px-Lua-Logo.svg.png" alt="lua" width="50" height="50"/> </a> </p>
 
 <h3 align="left">Certifications:</h3>
 <p align="left"> <a href="https://www.comptia.org/en/certifications/a/core-1-v15/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/849683387790000136/1417288293145514014/Comptia_core_1.png?ex=68c9f015&is=68c89e95&hm=0c49b254a92db97d3099ebe8a95fd5a0ee6199044a9aaa53252989a9db8dba3c&" alt="comptia a+ core 1" width="125" height="125"/> </a>
