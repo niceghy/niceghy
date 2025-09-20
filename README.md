@@ -2,7 +2,7 @@
 <h3 align="center">🔒 Aspiring Cybersecurity professional with a focus on Red Team operations</h3>
 <br>
 
-- 🌱 I’m currently learning **IT and Security Operations**
+- 🌱 Currently learning **IT and Security Operations**
 
 - 👨‍💻 Previous Roblox Projects are available at [https://niceghy.github.io/RBLX-Portfolio/](https://niceghy.github.io/RBLX-Portfolio/)
 
