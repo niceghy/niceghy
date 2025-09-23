@@ -17,7 +17,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
   <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1280px-Lua-Logo.svg.png" alt="lua" width="50" height="50"/> </a> </p>
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">Certifications/Passed Exams:</h3>
 <p align="left"> <a href="https://www.comptia.org/en/certifications/a/core-1-v15/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/4ZtvbZnr/Comptia-core-1.png" alt="comptia a+ core 1" width="125" height="125"/> </a>
 
 <h3 align="left">Planned/Currently Studying:</h3>
