@@ -6,8 +6,6 @@
 
 - 🌱 Currently learning **IT and Security Operations**
 
-- 👨‍💻 Previous Roblox Projects are available at [https://niceghy.github.io/RBLX-Portfolio/](https://niceghy.github.io/RBLX-Portfolio/)
-
 - 📫 How to reach me:<br><br>Email: **thelouisghy@gmail.com**<br>Discord: @ncgy
 
 <br>
