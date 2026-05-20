@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">🔒 Aspiring Cybersecurity professional with a focus on Red Team operations</h3>
+<h3 align="center">🔒 Aspiring Cybersecurity professional</h3>
 <br>
 
 - ⌨️ 6 Years of Programming Experience
