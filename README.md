@@ -21,5 +21,5 @@
 <p align="left"> <a href="https://www.comptia.org/en/certifications/a/" target="_blank" rel="noreferrer"> <img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages3.cmp.optimizely.com%2F83adafb0b71111ef888eca5646afc7d8&w=256&q=90" alt="CompTIA A+" width="125" height="125"/> </a>
 
 <h3 align="left">I am studying</h3>
-<p align="left"> <a href="https://www.comptia.org/en/certifications/network/" target="_blank" rel="noreferrer"> <img src="https://www.succurri.com/wp-content/uploads/2025/09/Comptia-Network-Plus.webp" alt="CompTIA Network+" width="125" height="125"/> </a>
+<p align="left"> <a href="https://www.comptia.org/en/certifications/network/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+" width="125" height="125"/> </a>
 <a href="https://www.comptia.org/en/certifications/security/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="125" height="125"/> </a>
