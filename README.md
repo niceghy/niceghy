@@ -2,7 +2,7 @@
 <h3 align="center">🔒 Aspiring Cybersecurity and IT Systems professional</h3>
 <br>
 
-- ⌨️ 6 Years of Programming Experience
+- ⌨️ 7 Years of Programming Experience
 
 - 🌱 Currently learning **IT and Security Operations**
 
